@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'certa_sansmedium';
+    src: url('certa-sans.medium-webfont.woff2') format('woff2'),
+         url('certa-sans.medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
